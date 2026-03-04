@@ -1,2 +1,4 @@
 # alice
-Alice in Wonderland Fetching Data Lab
+Alice in Wonderland: Fetching Data
+
+A TypeScript Lab.
